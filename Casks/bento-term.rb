@@ -13,7 +13,7 @@
 # changes.
 cask "bento-term" do
   version "0.3.1"
-  sha256 "111005cc8c55be08451c126033a66e4c90ae6931e250c2d37b79224e41663e65"
+  sha256 "8ecb6916b0a18782497481b4d5e5b07e13436b82315d288ebeb19df3efb98c58"
 
   url "https://github.com/NovaShang/BentoTerm/releases/download/v#{version}/BentoTerm-macos-arm64.zip",
       verified: "github.com/NovaShang/BentoTerm/"
