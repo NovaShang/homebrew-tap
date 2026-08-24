@@ -12,8 +12,8 @@
 # release. Do not hand-edit them; edit that workflow if artifact naming
 # changes.
 cask "bento-term" do
-  version "0.3.1"
-  sha256 "8ecb6916b0a18782497481b4d5e5b07e13436b82315d288ebeb19df3efb98c58"
+  version "0.4.0"
+  sha256 "aa27e41b28901b5b7c81c42d97671cd2cde4962b3d0dc956fc394af878bf0c93"
 
   url "https://github.com/NovaShang/BentoTerm/releases/download/v#{version}/BentoTerm-macos-arm64.zip",
       verified: "github.com/NovaShang/BentoTerm/"
